@@ -1,0 +1,4 @@
+*.env
+*.pyc
+*.sqlite3
+Django_CRUD_API/migrations
